@@ -6,9 +6,13 @@
 <h3>either it will write the value number in ascii list</h1>
 
 <h1>Example:</h1>
+  
 https://user-images.githubusercontent.com/79762562/146330725-0141b276-e631-48fe-b8ce-df974119d6a0.mp4
+  
 # Run
+  
 ```python .\lang.py .\sum.bf```
+  
 # Files
   <h3>Ascii.txt - shows all ascii values and their meanings</h3>
   <h3>Sum.bf - The script</h3>
