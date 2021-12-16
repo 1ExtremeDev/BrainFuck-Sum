@@ -13,6 +13,6 @@
 <<[>+<-]<
 [>>+<<-]
 
-++++++ # to ascii if sum lower than 10
+++++++ # to ascii if sum smaller than 10
 [>++++++++<-]>
 [>+<-]>.
